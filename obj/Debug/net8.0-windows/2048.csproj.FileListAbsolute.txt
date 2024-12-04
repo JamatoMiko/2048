@@ -1,0 +1,14 @@
+d:\新しいフォルダー (3)\C#\2048\bin\Debug\net8.0-windows\2048.exe
+D:\新しいフォルダー (3)\C#\2048\bin\Debug\net8.0-windows\2048.deps.json
+D:\新しいフォルダー (3)\C#\2048\bin\Debug\net8.0-windows\2048.runtimeconfig.json
+d:\新しいフォルダー (3)\C#\2048\bin\Debug\net8.0-windows\2048.dll
+d:\新しいフォルダー (3)\C#\2048\bin\Debug\net8.0-windows\2048.pdb
+d:\新しいフォルダー (3)\C#\2048\obj\Debug\net8.0-windows\2048.GeneratedMSBuildEditorConfig.editorconfig
+d:\新しいフォルダー (3)\C#\2048\obj\Debug\net8.0-windows\2048.AssemblyInfoInputs.cache
+d:\新しいフォルダー (3)\C#\2048\obj\Debug\net8.0-windows\2048.AssemblyInfo.cs
+d:\新しいフォルダー (3)\C#\2048\obj\Debug\net8.0-windows\2048.csproj.CoreCompileInputs.cache
+d:\新しいフォルダー (3)\C#\2048\obj\Debug\net8.0-windows\2048.dll
+d:\新しいフォルダー (3)\C#\2048\obj\Debug\net8.0-windows\refint\2048.dll
+d:\新しいフォルダー (3)\C#\2048\obj\Debug\net8.0-windows\2048.pdb
+D:\新しいフォルダー (3)\C#\2048\obj\Debug\net8.0-windows\2048.genruntimeconfig.cache
+D:\新しいフォルダー (3)\C#\2048\obj\Debug\net8.0-windows\ref\2048.dll
